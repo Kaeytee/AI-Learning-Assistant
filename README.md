@@ -13,7 +13,9 @@ The AI Learning Assistant is an application designed to help users study by allo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Lexo7/AI-Learning-Assistant.git
+   git clone git remote add origin git@github.com:Kaeytee/AI-Learning-Assistant.git
+   git branch -M main
+   git push -u origin main
    cd AI-Learning-Assistant
    cd backend
 
